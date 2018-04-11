@@ -1,6 +1,8 @@
 #一致性哈希算法<br>
-哈希环
-![](https://github.com/zhangga/GO/blob/master/img/url/goroot.png)<br>
+哈希环<br>
+![](https://github.com/zhangga/JAVA/blob/master/img/1.png)<br>
+![](https://github.com/zhangga/JAVA/blob/master/img/2.png)<br>
+![](https://github.com/zhangga/JAVA/blob/master/img/3.png)<br>
 
 #三分钟看懂一致性哈希算法
 一致性哈希算法，作为分布式计算的数据分配参考，比传统的取模，划段都好很多。
