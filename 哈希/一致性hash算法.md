@@ -110,3 +110,6 @@ node z: 7,8,9
 
 通过这种算法做数据分布，在增减节点的时候，可以大大减少数据的迁移规模。
 
+
+https://blog.csdn.net/u010412301/article/details/52441400
+http://blog.jobbole.com/98733/
